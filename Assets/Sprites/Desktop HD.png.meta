@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: ea8723917224046939e629c398816349
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Desktop HD
+    21300002: Desktop HD_0
+    21300004: Desktop HD_1
+    21300006: Desktop HD_2
+    21300008: Desktop HD_3
+    21300010: Desktop HD_4
+    21300012: Desktop HD_5
+    21300014: Desktop HD_6
+    21300016: Desktop HD_7
+    21300018: Desktop HD_8
+    21300020: Desktop HD_9
+    21300022: Desktop HD_10
+    21300024: Desktop HD_11
+    21300026: Desktop HD_12
+    21300028: Desktop HD_13
+    21300030: Desktop HD_14
+    21300032: Desktop HD_15
+    21300034: Desktop HD_16
+    21300036: Desktop HD_17
+    21300038: Desktop HD_18
+    21300040: Desktop HD_19
+    21300042: Desktop HD_20
+    21300044: Desktop HD_21
+    21300046: Desktop HD_22
+    21300048: Desktop HD_23
+    21300050: Desktop HD_24
+    21300052: Desktop HD_25
+    21300054: Desktop HD_26
+    21300056: Desktop HD_27
+    21300058: Desktop HD_28
+    21300060: Desktop HD_29
+    21300062: Desktop HD_30
+    21300064: Desktop HD_31
+    21300066: Desktop HD_32
+    21300068: Desktop HD_33
+    21300070: Desktop HD_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Desktop HD_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 298
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desktop HD_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 274
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 6270fe732b55142b8b6c841d5a370fbd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tutorial
+    21300002: Tutorial_0
+    21300004: Tutorial_1
+    21300006: Tutorial_2
+    21300008: Tutorial_3
+    21300010: Tutorial_4
+    21300012: Tutorial_5
+    21300014: Tutorial_6
+    21300016: Tutorial_7
+    21300018: Tutorial_8
+    21300020: Tutorial_9
+    21300022: Tutorial_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3500
+        width: 802
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 4212
+        width: 376
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 3506
+        width: 328
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3506
+        width: 544
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 3135
+        width: 363
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2842
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 2842
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 2842
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2514
+        width: 102
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 2513
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2514
+        width: 134
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

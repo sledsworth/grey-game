@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: b565231b8cf0f4b229480197f4d57ece
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterAndItems
+    21300002: CharacterAndItems_0
+    21300004: CharacterAndItems_1
+    21300006: CharacterAndItems_2
+    21300008: CharacterAndItems_3
+    21300010: CharacterAndItems_4
+    21300012: CharacterAndItems_5
+    21300014: CharacterAndItems_6
+    21300016: CharacterAndItems_7
+    21300018: CharacterAndItems_8
+    21300020: CharacterAndItems_9
+    21300022: CharacterAndItems_10
+    21300024: CharacterAndItems_11
+    21300026: CharacterAndItems_12
+    21300028: CharacterAndItems_13
+    21300030: CharacterAndItems_14
+    21300032: CharacterAndItems_15
+    21300034: CharacterAndItems_16
+    21300036: CharacterAndItems_17
+    21300038: CharacterAndItems_18
+    21300040: CharacterAndItems_19
+    21300042: CharacterAndItems_20
+    21300044: CharacterAndItems_21
+    21300046: CharacterAndItems_22
+    21300048: CharacterAndItems_23
+    21300050: CharacterAndItems_24
+    21300052: CharacterAndItems_25
+    21300054: CharacterAndItems_26
+    21300056: CharacterAndItems_27
+    21300058: CharacterAndItems_28
+    21300060: CharacterAndItems_29
+    21300062: CharacterAndItems_30
+    21300064: CharacterAndItems_31
+    21300066: CharacterAndItems_32
+    21300068: CharacterAndItems_33
+    21300070: CharacterAndItems_34
+    21300072: CharacterAndItems_35
+    21300074: CharacterAndItems_36
+    21300076: CharacterAndItems_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterAndItems_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2832
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2448
+        width: 785
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2471
+        width: 686
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_3
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2650
+        width: 348
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_4
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2574
+        width: 366
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2606
+        width: 393
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2747
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2647
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2568
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2442
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_10
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2418
+        width: 196
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_11
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2216
+        width: 329
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2328
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2334
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1715
+        width: 735
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2105
+        width: 167
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2225
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2225
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_18
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1742
+        width: 676
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2161
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2161
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_21
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2032
+        width: 105
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_22
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2169
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_23
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2169
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_24
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2128
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_25
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2128
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_26
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2152
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2038
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2035
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_29
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2070
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_30
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 2063
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_31
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2093
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1944
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_33
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1296
+        width: 569
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1513
+        width: 632
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_35
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1437
+        width: 287
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1273
+        width: 306
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAndItems_37
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1296
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
